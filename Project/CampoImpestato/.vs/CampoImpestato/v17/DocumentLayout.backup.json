@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Davide\\Downloads\\CampoImpestato\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B913143-1D09-4B9B-A71F-A79B5540C9E9}|CampoImpestato\\CampoImpestato.csproj|c:\\users\\davide\\downloads\\campoimpestato\\campoimpestato\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B913143-1D09-4B9B-A71F-A79B5540C9E9}|CampoImpestato\\CampoImpestato.csproj|solutionrelative:campoimpestato\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B913143-1D09-4B9B-A71F-A79B5540C9E9}|CampoImpestato\\CampoImpestato.csproj|c:\\users\\davide\\downloads\\campoimpestato\\campoimpestato\\campoimpestato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B913143-1D09-4B9B-A71F-A79B5540C9E9}|CampoImpestato\\CampoImpestato.csproj|solutionrelative:campoimpestato\\campoimpestato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B913143-1D09-4B9B-A71F-A79B5540C9E9}|CampoImpestato\\CampoImpestato.csproj|C:\\Users\\Davide\\Downloads\\CampoImpestato\\campoimpestato\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B913143-1D09-4B9B-A71F-A79B5540C9E9}|CampoImpestato\\CampoImpestato.csproj|solutionrelative:campoimpestato\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B913143-1D09-4B9B-A71F-A79B5540C9E9}|CampoImpestato\\CampoImpestato.csproj|C:\\Users\\Davide\\Downloads\\CampoImpestato\\campoimpestato\\dimensioni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B913143-1D09-4B9B-A71F-A79B5540C9E9}|CampoImpestato\\CampoImpestato.csproj|solutionrelative:campoimpestato\\dimensioni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B913143-1D09-4B9B-A71F-A79B5540C9E9}|CampoImpestato\\CampoImpestato.csproj|C:\\Users\\Davide\\Downloads\\CampoImpestato\\campoimpestato\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B913143-1D09-4B9B-A71F-A79B5540C9E9}|CampoImpestato\\CampoImpestato.csproj|solutionrelative:campoimpestato\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B913143-1D09-4B9B-A71F-A79B5540C9E9}|CampoImpestato\\CampoImpestato.csproj|C:\\Users\\Davide\\Downloads\\CampoImpestato\\campoimpestato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B913143-1D09-4B9B-A71F-A79B5540C9E9}|CampoImpestato\\CampoImpestato.csproj|solutionrelative:campoimpestato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B913143-1D09-4B9B-A71F-A79B5540C9E9}|CampoImpestato\\CampoImpestato.csproj|C:\\Users\\Davide\\Downloads\\CampoImpestato\\campoimpestato\\campoimpestato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B913143-1D09-4B9B-A71F-A79B5540C9E9}|CampoImpestato\\CampoImpestato.csproj|solutionrelative:campoimpestato\\campoimpestato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B913143-1D09-4B9B-A71F-A79B5540C9E9}|CampoImpestato\\CampoImpestato.csproj|C:\\Users\\Davide\\Downloads\\CampoImpestato\\campoimpestato\\dimensioni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B913143-1D09-4B9B-A71F-A79B5540C9E9}|CampoImpestato\\CampoImpestato.csproj|solutionrelative:campoimpestato\\dimensioni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B913143-1D09-4B9B-A71F-A79B5540C9E9}|CampoImpestato\\CampoImpestato.csproj|C:\\Users\\Davide\\Downloads\\CampoImpestato\\campoimpestato\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B913143-1D09-4B9B-A71F-A79B5540C9E9}|CampoImpestato\\CampoImpestato.csproj|solutionrelative:campoimpestato\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B913143-1D09-4B9B-A71F-A79B5540C9E9}|CampoImpestato\\CampoImpestato.csproj|C:\\Users\\Davide\\Downloads\\CampoImpestato\\campoimpestato\\xmlexport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B913143-1D09-4B9B-A71F-A79B5540C9E9}|CampoImpestato\\CampoImpestato.csproj|solutionrelative:campoimpestato\\xmlexport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\Davide\\Downloads\\CampoImpestato\\CampoImpestato\\Config.cs",
+              "RelativeDocumentMoniker": "CampoImpestato\\Config.cs",
+              "ToolTip": "C:\\Users\\Davide\\Downloads\\CampoImpestato\\CampoImpestato\\Config.cs",
+              "RelativeToolTip": "CampoImpestato\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T22:41:19.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CampoImpestato.cs",
+              "DocumentMoniker": "C:\\Users\\Davide\\Downloads\\CampoImpestato\\CampoImpestato\\CampoImpestato.cs",
+              "RelativeDocumentMoniker": "CampoImpestato\\CampoImpestato.cs",
+              "ToolTip": "C:\\Users\\Davide\\Downloads\\CampoImpestato\\CampoImpestato\\CampoImpestato.cs",
+              "RelativeToolTip": "CampoImpestato\\CampoImpestato.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:54:14.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Davide\\Downloads\\CampoImpestato\\CampoImpestato\\Program.cs",
+              "RelativeDocumentMoniker": "CampoImpestato\\Program.cs",
+              "ToolTip": "C:\\Users\\Davide\\Downloads\\CampoImpestato\\CampoImpestato\\Program.cs",
+              "RelativeToolTip": "CampoImpestato\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:04:59.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dimensioni.cs",
+              "DocumentMoniker": "C:\\Users\\Davide\\Downloads\\CampoImpestato\\CampoImpestato\\Dimensioni.cs",
+              "RelativeDocumentMoniker": "CampoImpestato\\Dimensioni.cs",
+              "ToolTip": "C:\\Users\\Davide\\Downloads\\CampoImpestato\\CampoImpestato\\Dimensioni.cs",
+              "RelativeToolTip": "CampoImpestato\\Dimensioni.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:49:21.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Davide\\Downloads\\CampoImpestato\\CampoImpestato\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CampoImpestato\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Davide\\Downloads\\CampoImpestato\\CampoImpestato\\AssemblyInfo.cs",
+              "RelativeToolTip": "CampoImpestato\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:19:31.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutForm.cs",
+              "DocumentMoniker": "C:\\Users\\Davide\\Downloads\\CampoImpestato\\CampoImpestato\\AboutForm.cs",
+              "RelativeDocumentMoniker": "CampoImpestato\\AboutForm.cs",
+              "ToolTip": "C:\\Users\\Davide\\Downloads\\CampoImpestato\\CampoImpestato\\AboutForm.cs",
+              "RelativeToolTip": "CampoImpestato\\AboutForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:47:41.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dimensioni.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\Davide\\Downloads\\CampoImpestato\\CampoImpestato\\Dimensioni.cs",
+              "RelativeDocumentMoniker": "CampoImpestato\\Dimensioni.cs",
+              "ToolTip": "C:\\Users\\Davide\\Downloads\\CampoImpestato\\CampoImpestato\\Dimensioni.cs [Progettazione]",
+              "RelativeToolTip": "CampoImpestato\\Dimensioni.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:38:16.629Z",
+              "EditorCaption": " [Progettazione]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutForm.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\Davide\\Downloads\\CampoImpestato\\CampoImpestato\\AboutForm.cs",
+              "RelativeDocumentMoniker": "CampoImpestato\\AboutForm.cs",
+              "ToolTip": "C:\\Users\\Davide\\Downloads\\CampoImpestato\\CampoImpestato\\AboutForm.cs [Progettazione]",
+              "RelativeToolTip": "CampoImpestato\\AboutForm.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:38:13.306Z",
+              "EditorCaption": " [Progettazione]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CampoImpestato.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\Davide\\Downloads\\CampoImpestato\\CampoImpestato\\CampoImpestato.cs",
+              "RelativeDocumentMoniker": "CampoImpestato\\CampoImpestato.cs",
+              "ToolTip": "C:\\Users\\Davide\\Downloads\\CampoImpestato\\CampoImpestato\\CampoImpestato.cs [Progettazione]",
+              "RelativeToolTip": "CampoImpestato\\CampoImpestato.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T18:03:10.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "XMLExport.cs",
+              "DocumentMoniker": "C:\\Users\\Davide\\Downloads\\CampoImpestato\\CampoImpestato\\XMLExport.cs",
+              "RelativeDocumentMoniker": "CampoImpestato\\XMLExport.cs",
+              "ToolTip": "C:\\Users\\Davide\\Downloads\\CampoImpestato\\CampoImpestato\\XMLExport.cs",
+              "RelativeToolTip": "CampoImpestato\\XMLExport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:44:41.473Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
