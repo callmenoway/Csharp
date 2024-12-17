@@ -45,21 +45,3 @@ Questa sezione elenca alcune funzionalità aggiuntive che rendono il gioco più 
    Una finestra "About" che mostra i dettagli dell'applicazione utilizzando le informazioni dell'**Assembly Info** di Visual Studio.
 
 ---
-
-## Requisiti di Sistema
-
-- **Sistema Operativo**: Windows 7/8/10/11
-- **.NET Framework**: Versione 4.7.2 o successiva
-- **Visual Studio**: Consigliata per modificare o eseguire il codice sorgente.
-
----
-
-## Installazione
-
-1. Clona questo repository:
-
-   ```bash
-   git clone https://github.com/tuo-username/CampoImpestato.git
-   ```
-2. Apri il progetto in Visual Studio.
-3. Compila ed esegui il programma (F5).
