@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Davide\\Desktop\\PlayerAudio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37AB12B1-22EA-4DE7-9517-351710A6B54C}|PlayerAudio\\PlayerAudio.csproj|C:\\Users\\Davide\\Desktop\\PlayerAudio\\playeraudio\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AB12B1-22EA-4DE7-9517-351710A6B54C}|PlayerAudio\\PlayerAudio.csproj|solutionrelative:playeraudio\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AB12B1-22EA-4DE7-9517-351710A6B54C}|PlayerAudio\\PlayerAudio.csproj|c:\\users\\davide\\desktop\\playeraudio\\playeraudio\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AB12B1-22EA-4DE7-9517-351710A6B54C}|PlayerAudio\\PlayerAudio.csproj|solutionrelative:playeraudio\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AB12B1-22EA-4DE7-9517-351710A6B54C}|PlayerAudio\\PlayerAudio.csproj|c:\\users\\davide\\desktop\\playeraudio\\playeraudio\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37AB12B1-22EA-4DE7-9517-351710A6B54C}|PlayerAudio\\PlayerAudio.csproj|solutionrelative:playeraudio\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs [Progettazione]",
+              "DocumentMoniker": "C:\\Users\\Davide\\Desktop\\PlayerAudio\\PlayerAudio\\Main.cs",
+              "RelativeDocumentMoniker": "PlayerAudio\\Main.cs",
+              "ToolTip": "C:\\Users\\Davide\\Desktop\\PlayerAudio\\PlayerAudio\\Main.cs [Progettazione]*",
+              "RelativeToolTip": "PlayerAudio\\Main.cs [Progettazione]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:05:16.252Z",
+              "EditorCaption": " [Progettazione]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Davide\\Desktop\\PlayerAudio\\PlayerAudio\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "PlayerAudio\\Main.Designer.cs",
+              "ToolTip": "C:\\Users\\Davide\\Desktop\\PlayerAudio\\PlayerAudio\\Main.Designer.cs*",
+              "RelativeToolTip": "PlayerAudio\\Main.Designer.cs*",
+              "ViewState": "AgIAADQAAAAAAAAAAAAEwCEAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:39:53.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Davide\\Desktop\\PlayerAudio\\PlayerAudio\\Main.cs",
+              "RelativeDocumentMoniker": "PlayerAudio\\Main.cs",
+              "ToolTip": "C:\\Users\\Davide\\Desktop\\PlayerAudio\\PlayerAudio\\Main.cs*",
+              "RelativeToolTip": "PlayerAudio\\Main.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswC4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:08:36.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
